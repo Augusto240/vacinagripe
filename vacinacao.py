@@ -1,4 +1,4 @@
-#programa mostra se a cacina contra a gripe estará disponível ou não, baseado na idade da criança
+#programa mostra se a vacina contra a gripe estará disponível ou não, baseado na idade da criança
 
 idade = eval(input('Informe a idade da criança: \n'))
 if idade < 5:
